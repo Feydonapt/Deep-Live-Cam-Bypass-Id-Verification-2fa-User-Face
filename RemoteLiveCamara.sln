@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepBypassCam", "BypassCam\BypassCam.csproj", "{E234571A-5B2B-47FC-BFFB-CF217406BBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form11", "BypassCam\Form11\Form1.csproj", "{DB5E7276-521A-4F49-B0EE-285C2AE25903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E234571A-5B2B-47FC-BFFB-CF217406BBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E234571A-5B2B-47FC-BFFB-CF217406BBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E234571A-5B2B-47FC-BFFB-CF217406BBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E234571A-5B2B-47FC-BFFB-CF217406BBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5E7276-521A-4F49-B0EE-285C2AE25903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5E7276-521A-4F49-B0EE-285C2AE25903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5E7276-521A-4F49-B0EE-285C2AE25903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5E7276-521A-4F49-B0EE-285C2AE25903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05E3D20-140F-4936-814F-496A0F836D15}
+	EndGlobalSection
+EndGlobal
