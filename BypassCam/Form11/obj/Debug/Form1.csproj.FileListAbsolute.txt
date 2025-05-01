@@ -1,0 +1,4 @@
+D:\GithubNew\14\Axie-Infinity\Axie\Axie-Infinity-Exp\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\14\Axie-Infinity\Axie\Axie-Infinity-Exp\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\GithubNew\16\DeepLiveCam\Bypass\Biyy\BypassCam\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\16\DeepLiveCam\Bypass\Biyy\BypassCam\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
